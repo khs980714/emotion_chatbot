@@ -1,0 +1,21 @@
+# 기본 라이브러리
+jupyter
+dotenv
+
+# 데이터
+pandas
+openpyxl
+numpy
+
+# 시각화
+matplotlib
+seaborn
+
+# 웹 프레임워크
+streamlit
+
+# 모델
+huggingface
+transformers
+accelerate
+openai
