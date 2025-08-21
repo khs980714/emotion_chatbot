@@ -40,4 +40,16 @@
 HF_TOKEN=허깅페이스토큰
 CLASSIFIER_MODEL=Jinuuuu/KoELECTRA_fine_tunning_emotion
 GENERATION_MODEL=openai/gpt-oss-20b
+<<<<<<< HEAD
 ```
+=======
+```
+
+# 4. LM Studio 세팅
+<img width="323" height="238" alt="image" src="https://github.com/user-attachments/assets/afa8bb81-9d26-4b4a-8446-1dcdc989e515" />
+
+# 5. streamlit 실행
+`streamlit run main.py`
+
+### 추가로 알거라 생각하지만 streamlit을 처음 실행할 때 터미널에서 이메일 주소 치는거 나오는데 나오면 치고 아니면 그냥 해도 될거
+>>>>>>> 4645fd8c631849a3e5f2d7ddd1844fba685570f6
